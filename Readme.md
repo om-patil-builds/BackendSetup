@@ -1,3 +1,3 @@
 #chai aur backend series
 
-This is a video series on backend with javas
+This is a video series on backend with javasc
